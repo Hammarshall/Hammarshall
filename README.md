@@ -2,7 +2,7 @@
 
 * :computer: I'm currently working on a pre-school application and a Formula 1 application
 * 🥇 I’m in school and my main focus is .Net C# and fullstack development.
-* 📧 Connect with me: <a href="https://www.linkedin.com/in/wilma-hammarshall/"> <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Wilma | LinkedIn" width="21px" style="max-width: 100%;"> </a> 
+* 📧 Connect with me on <a href="https://www.linkedin.com/in/wilma-hammarshall/"> <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Wilma | LinkedIn" width="21px" style="max-width: 100%;"> </a> 
 * ☀️ Other interests: 🚗
 * 🌟 Have a look at my <a href="https://hammarshall.github.io/MyPortfolio/" target="_blank"> Portfolio</a>
 
